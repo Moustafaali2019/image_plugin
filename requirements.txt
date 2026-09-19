@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+transformers>=4.30.0
+torch
+Pillow
+selenium
+webdriver-manager
